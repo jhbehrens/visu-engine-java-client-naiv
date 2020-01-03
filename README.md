@@ -7,7 +7,7 @@ Tested on Windows 7 with FFmpeg 4.2, PhantomJS 2.1.1
 
 1. Make sure you have an instance of VisuEngine (https://github.com/uniflo/VisuEngine) running and it has the d3js unit installed (https://github.com/uniflo/d3js).
 2. Make sure the needed ejs templates are in the d3js unit. The ejs templates for this project are inside the ejs folder.
-3. You need to download the PhantomJS 2.1.1 and FFmpeg 4.2 executables and put them in the video folder
+3. You need to download the PhantomJS 2.1.1 and FFmpeg 4.2 executables and put them in the video folder as phantomjs.exe and ffmpeg.exe.
 
 ## Usage
 
