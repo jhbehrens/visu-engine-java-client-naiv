@@ -13,7 +13,6 @@ var frame;
 page.viewportSize = { width: 1680, height: 970 };
 
 page.open(url, function() {
-	//TODO: Wait for page load finish instead of timeout
 	setTimeout(function() {
 		frame = 0;
 		var clipRect = page.evaluate(function(){
